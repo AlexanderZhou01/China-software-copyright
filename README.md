@@ -73,4 +73,6 @@
 6）打印申请表的时候记得看每一页什么申请表上的流水号有没有，显示的样式正不正常，如果顶部没有流水号，请更换浏览器打印。<br>
 
 ## 参考文献
-http://www.ccopyright.com/mobile/index.php?optionid=1368
+http://www.ccopyright.com/mobile/index.php?optionid=1368 （中国版权保护中心官网）
+http://www.jht868.com/a/2875447.html （个人版合作开发协议）
+https://www.66law.cn/contractmodel/28128.aspx （企业版合作开发协议）
